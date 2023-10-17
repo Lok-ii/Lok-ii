@@ -13,6 +13,12 @@
 
 ---
 
+### Badges:
+
+[![An image of @lokii's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lokii)](https://holopin.io/@lokii)
+
+---
+
 ### <img width="20px" src="https://github.com/Lok-ii/Lok-ii/assets/129180844/a07f5fa3-c6c3-4974-8e5d-9a0a9a651cd2">  Connect With Me :
 
 
