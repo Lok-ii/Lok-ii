@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</p>
-    <p>- 🌱 I’m currently learning ReactJS.</p>
+    <p>- 🌱 I’m currently learning NodeJS and ExpressJS.</p>
     <p>- 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, ReactJS.</p>
     <p>- 💞️ I’m looking to collaborate on web development projects.</p>  
      <p>- :zap: In my free time, I solve problems on Leetcode and other similar platforms.</p>
