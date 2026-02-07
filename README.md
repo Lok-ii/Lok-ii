@@ -6,7 +6,7 @@
 ### :man_technologist: About Me :
 <p>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</p>
     <p>- 💬 Currently I am learning Go lang and postgresql.</p>
-    <p>- 💬 Ask me about HTML, CSS, Tailwind CSS, JavaScript, ReactJS, NodeJS and ExpressJS.</p>
+    <p>- 💬 Ask me about Nextjs, React Native, Typescript, Redux, ReactJS, NodeJS and ExpressJS.</p>
     <p>- 💞️ I’m looking to collaborate on web development projects.</p>  
     <p>- :zap: In my free time, I solve problems on Leetcode and other similar platforms.</p>
     <p>- 📫 How to reach me <a href="">lokeshkataria.work@gmail.com</a></p>    
